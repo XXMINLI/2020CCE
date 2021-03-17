@@ -1,5 +1,5 @@
 # 2020cce
-第二週
+week2
 
 ```C
 #include <stdio.h>
