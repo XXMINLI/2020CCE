@@ -155,3 +155,5 @@ int main()
   *p=555;
             printALL();
 ```
+
+![pic](https://github.com/xximin/2020cce/blob/gh-pages/4.PNG?raw=true)
