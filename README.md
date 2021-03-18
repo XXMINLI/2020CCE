@@ -156,4 +156,4 @@ int main()
             printALL();
 ```
 
-![pic](https://github.com/xximin/2020cce/blob/gh-pages/4.PNG?raw=true)
+![week02](https://github.com/xximin/2020cce/blob/gh-pages/w2.png?raw=true)
