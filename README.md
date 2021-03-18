@@ -133,8 +133,6 @@ int main() {
     *p=666;
 }
 ```
-![image](https://user-images.githubusercontent.com/80037215/111492843-e14b9780-86f1-11eb-9410-3f5b15c10922.png)
-
 
 ```C
 #include <stdio.h>
