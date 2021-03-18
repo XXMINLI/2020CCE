@@ -118,7 +118,7 @@ int main()
 
 ```
 
-(https://github.com/xximin/2020cce/blob/gh-pages/w2.png?raw=true)
+![week02](https://moodle3-06.mcu.edu.tw/pluginfile.php/199240/assignsubmission_file/submission_files/495230/4.PNG?forcedownload=1)
 
 
 ## week03
