@@ -118,6 +118,9 @@ int main()
 
 ```
 
+![week02](https://github.com/xximin/2020cce/blob/gh-pages/w2.png?raw=true)
+
+
 ## week03
 ```C
 #include <stdio.h>
@@ -155,5 +158,3 @@ int main()
   *p=555;
             printALL();
 ```
-
-![week02](https://github.com/xximin/2020cce/blob/gh-pages/w2.png?raw=true)
