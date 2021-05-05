@@ -1,4 +1,4 @@
-##C Tutor安裝步驟
+## C Tutor安裝步驟
 
 裝好 Anaconda / Git
 
