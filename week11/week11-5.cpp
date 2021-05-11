@@ -2,11 +2,11 @@
 char line[1001];
 int main()
 {
-	//step1:Input ¤@¦¸¤@¦æ 1000¦r¥À (Q:¤£ª¾¹D¦³´X¦æ)
-	//¤@¦¸1¦æ:¦¨¥\®É¦³«ü¼Ğ ¥¢±ÑÅÜNULL
+	//step1:Input ä¸€æ¬¡ä¸€è¡Œ 1000å­—æ¯ (Q:ä¸çŸ¥é“æœ‰å¹¾è¡Œ)
+	//ä¸€æ¬¡1è¡Œ:æˆåŠŸæ™‚æœ‰æŒ‡æ¨™ å¤±æ•—è®ŠNULL
 	for(int t=0; gets(line)!=NULL; t++){
 
-		if(t>0) printf("\n");//step2:¸õ¦æ°İÃD
+		if(t>0) printf("\n");//step2:è·³è¡Œå•é¡Œ
 		printf("blahblah\n");
 		printf("blahblah\n");
 		printf("blahblah\n");
