@@ -25,7 +25,7 @@ int main()
 }
 ```c
 
-
+```c
 #include <stdio.h>
 char line[1001];
 int ans[256];//統計出現的次數 ans[65]代表第65個字母出現次數
