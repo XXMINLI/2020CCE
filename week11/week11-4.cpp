@@ -4,7 +4,7 @@
 char name[2000][80];
 char others[80];
 int compare( const void*p1, const void*p2 )
-{//           �ন�u�r�ꪺ���Сv
+{//           Âà¦¨¡u¦r¦êªº«ü¼Ð¡v
 	char *s1=(char*)p1;
 	char *s2=(char*)p2;
 	if( strcmp(s1,s2)>0 ) return 1;
