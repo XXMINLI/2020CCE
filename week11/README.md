@@ -1,3 +1,4 @@
+```c
 #include <stdio.h>
 char line[1001];
 int ans[256];
@@ -22,6 +23,7 @@ int main()
 	}
 
 }
+```c
 
 
 #include <stdio.h>
